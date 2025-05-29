@@ -1,6 +1,6 @@
 ## 👋Hola! I am Hasin Raiyean Mashfi 
 
-<# 💫 About Me:
+💫 About Me:
 I am a Computer Science student at BRAC University, enthusiastically exploring the cutting-edge fields of Artificial Intelligence, Machine Learning, DevOps and Cloud Computing and I am eager to connect with professionals and learn more about opportunities where I can contribute and grow in these dynamic areas.
 
 
